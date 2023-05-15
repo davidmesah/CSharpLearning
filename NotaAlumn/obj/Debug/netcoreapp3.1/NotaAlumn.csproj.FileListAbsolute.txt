@@ -1,0 +1,13 @@
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\bin\Debug\netcoreapp3.1\NotaAlumn.exe
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\bin\Debug\netcoreapp3.1\NotaAlumn.deps.json
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\bin\Debug\netcoreapp3.1\NotaAlumn.runtimeconfig.json
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\bin\Debug\netcoreapp3.1\NotaAlumn.runtimeconfig.dev.json
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\bin\Debug\netcoreapp3.1\NotaAlumn.dll
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\bin\Debug\netcoreapp3.1\NotaAlumn.pdb
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.csprojAssemblyReference.cache
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.AssemblyInfoInputs.cache
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.AssemblyInfo.cs
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.csproj.CoreCompileInputs.cache
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.dll
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.pdb
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\NotaAlumn\obj\Debug\netcoreapp3.1\NotaAlumn.genruntimeconfig.cache
