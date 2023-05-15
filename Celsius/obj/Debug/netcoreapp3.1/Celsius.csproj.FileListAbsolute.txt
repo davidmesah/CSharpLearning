@@ -1,0 +1,13 @@
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\bin\Debug\netcoreapp3.1\Celsius.exe
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\bin\Debug\netcoreapp3.1\Celsius.deps.json
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\bin\Debug\netcoreapp3.1\Celsius.runtimeconfig.json
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\bin\Debug\netcoreapp3.1\Celsius.runtimeconfig.dev.json
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\bin\Debug\netcoreapp3.1\Celsius.dll
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\bin\Debug\netcoreapp3.1\Celsius.pdb
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.csprojAssemblyReference.cache
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.AssemblyInfoInputs.cache
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.AssemblyInfo.cs
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.csproj.CoreCompileInputs.cache
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.dll
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.pdb
+C:\Users\Mesa Ortiz\Documents\David\Personal\SENA\Programación Aplicaciónes en la Nube\Trabajos\Codigos Programados\Programas\Nuevo\Celsius\obj\Debug\netcoreapp3.1\Celsius.genruntimeconfig.cache
